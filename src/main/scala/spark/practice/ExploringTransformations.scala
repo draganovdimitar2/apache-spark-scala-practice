@@ -1,4 +1,4 @@
-package spark.practise
+package spark.practice
 
 import org.apache.spark.sql.functions.{col, desc, expr, sum, avg, max, min, year, weekofyear}
 

@@ -1,4 +1,4 @@
-package spark.practise
+package spark.practice
 
 import com.databricks.connect.DatabricksSession
 import org.apache.spark.sql.connect.SparkSession

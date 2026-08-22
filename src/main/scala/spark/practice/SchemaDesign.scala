@@ -1,4 +1,4 @@
-package spark.practise
+package spark.practice
 import org.apache.spark.sql.types._
 import org.apache.spark.sql.functions._
 

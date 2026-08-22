@@ -1,4 +1,4 @@
-package spark.practise
+package spark.practice
 
 import org.apache.spark.sql.connect.SparkSession
 import org.apache.spark.sql.functions._

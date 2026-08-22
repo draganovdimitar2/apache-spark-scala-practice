@@ -1,4 +1,4 @@
-package spark.practise
+package spark.practice
 
 object TransformationsAndActions {
   def main(args: Array[String]): Unit = {
