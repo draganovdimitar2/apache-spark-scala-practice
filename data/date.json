@@ -1,0 +1,35 @@
+[
+    {
+        "event_date": "2000-01-01",
+        "hour_to_min_duration": "11:15",
+        "hour_duration": "123",
+        "day_to_hour_duration": "100 10",
+        "day_to_minute_duration": "100 10:30",
+        "day_to_second_duration": "100 10:30:40.999999",
+        "hour_to_second_duration": "123:10:59",
+        "minute_to_second_duration": "1000:01.001",
+        "second_duration": "1000.000001"
+    },
+    {
+        "event_date": "2000-01-02",
+        "hour_to_min_duration": "13:43",
+        "hour_duration": "25",
+        "day_to_hour_duration": "2 03",
+        "day_to_minute_duration": "2 03:30",
+        "day_to_second_duration": "2 03:30:40.500000",
+        "hour_to_second_duration": "25:10:59",
+        "minute_to_second_duration": "1500:01.250",
+        "second_duration": "3600.000001"
+    },
+    {
+        "event_date": "2000-01-03",
+        "hour_to_min_duration": "05:00",
+        "hour_duration": "5",
+        "day_to_hour_duration": "0 05",
+        "day_to_minute_duration": "0 05:15",
+        "day_to_second_duration": "0 05:15:30.125000",
+        "hour_to_second_duration": "5:15:30",
+        "minute_to_second_duration": "315:30.500",
+        "second_duration": "300.500000"
+    }
+]
